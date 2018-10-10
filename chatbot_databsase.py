@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  3 21:09:09 2018
-
-@author: harsh
-"""
-
 import sqlite3
 import json
 from datetime import datetime
